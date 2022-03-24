@@ -1,6 +1,5 @@
-# horseNFT implement
 
-## Available Scripts
+
 
 You need to add PRIVATE KEY and fee addresses in .env file (.env sample)
 
